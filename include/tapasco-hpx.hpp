@@ -1,3 +1,10 @@
+/*
+ * Copyright (c) 2023-2024 Torben Kalkhof
+ * Copyright (c) 2023-2024 Embedded Systems and Applications Group, TU Darmstadt
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
 #ifndef TAPASCO_HPX_WRAPPER_TAPASCO_HPX_HPP
 #define TAPASCO_HPX_WRAPPER_TAPASCO_HPX_HPP
 
