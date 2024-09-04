@@ -82,7 +82,7 @@ If you want to cite this work, please use the following information:
 
 ## Important Note
 
-Please, use the [develop branch](https://github.com/esa-tu-darmstadt/tapasco/tree/develop) of TaPaSCo until the next official release.
+Tested with TaPaSCo release 2024.1
 
 
 
